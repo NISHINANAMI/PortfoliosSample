@@ -1,7 +1,7 @@
 PortfoliosSample
 ====
 
-ポートフォリオのサンプルです。
+ポートフォリオのサンプルです
 
 ## デモ
 [Webサイトを見る](https://portfoliossample.herokuapp.com/)
@@ -12,4 +12,4 @@ PortfoliosSample
 HTML / CSS
 
 ## インストール方法
-そのままindex.htmlをブラウザで開くと閲覧できます。
+そのままindex.htmlをブラウザで開くと閲覧できます
